@@ -2,3 +2,4 @@ adding bar.txt
 adding a line in bar.txt
 adding another line bar.txt while on master
 adding another line bar.txt while on master - 2
+adding another line bar.txt while on master - 3
