@@ -1,1 +1,2 @@
 adding a line in foo.txt while on mybranch
+adding a second line in foo.txt while on mybranch
