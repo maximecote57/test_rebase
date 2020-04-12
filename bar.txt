@@ -1,1 +1,2 @@
 adding bar.txt
+adding a line in bar.txt
