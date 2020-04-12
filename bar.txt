@@ -1,2 +1,3 @@
 adding bar.txt
 adding a line in bar.txt
+adding another line bar.txt while on master
